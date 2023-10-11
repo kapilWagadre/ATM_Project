@@ -11,3 +11,6 @@ are unlocked. The project allows to perform following operations:
 3)Deposit
 4)Transfer
 5)Quit
+
+
+https://github.com/kapilWagadre/ATM_Project/assets/115333196/39d1e2f4-eb65-4a7e-bfb6-2b8bee99af47
